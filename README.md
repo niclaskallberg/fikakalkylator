@@ -1,2 +1,2 @@
-# fikakalkylator
+# Fikakalkylator
 Webbapp gjord under praktiken.
