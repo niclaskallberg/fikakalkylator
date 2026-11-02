@@ -1,2 +1,2 @@
 # Fikakalkylator
-Webbapp gjord under praktiken.
+Webbapp gjord under min praktik hos IT-centrum, Region Jönköpings län november 2024 - februari 2025. Syftet med appen är att kunna ta med fika till jobbet och sen registrera det i appen så att en high score-lista visas med vilka medarbetare som har köpt mest. Detta kan exempelvis visas på en skärm som alla kan se på webbplatsen. Projektet är i stort sett färdigt för bruk, den är än så länge i oförändrad form sedan jag blev färdig med min praktik.
